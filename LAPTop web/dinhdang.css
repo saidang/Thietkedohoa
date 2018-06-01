@@ -1,0 +1,424 @@
+body{
+background-color:silver;
+padding:5px;
+font-family:Verdana;
+font-size:10pt;
+}
+a.rieng{
+text-decoration:none;
+color:#000000;
+margin-left:60px;
+font-size:12pt;
+
+}
+h1{
+color:#009933;
+font-size:14pt;
+
+}
+.logo{
+position: absolute;
+top: 49px;
+left: 181px;
+
+}
+.chulogo{
+position: absolute;
+top: 31px;
+left: 155px;
+font-weight:bold;
+width:500px;
+font-size:20pt;
+color:#000000;
+}
+.chuphuong{
+position: absolute;
+top: 31px;
+left: 275px;
+width:500px;
+font-weight:bold;
+font-size:20pt;
+color:#acea4b;
+}
+.chutin{
+	position: absolute;
+top: 47px;
+left: 155px;
+width:500px;
+font-size:20pt;
+color:white;
+	}
+
+#khungtrang{
+margin:0 auto;
+width:1000px;
+background-color:white;
+
+}
+#phantren
+{
+height:180px; 
+}
+
+
+#phanmenungang{
+height:25px;
+background-color:#009933;
+text-align:center;
+padding-top:10px;
+
+   }
+   
+
+
+
+#phantrai
+{
+float:left;
+width:250px;
+height:800px;
+border-right:#009933;
+background-color:#fefcfc;
+
+}
+.khuyen{
+color:yellow;
+text-align:center;
+padding-top: 16px;
+
+}
+.khungquancao{
+width:240px;
+background-color:#ad5959;
+height:518px;
+margin:5px;
+}
+.sale{
+position: absolute;
+	top: 645px;
+   left: 100px;
+color: yellow;
+font-size:15pt;
+}
+.so{
+position: absolute;
+top: 657px;
+left: 104px;
+color: yellow;
+font-size:20pt;
+}
+.dell{
+position: absolute;
+top: 661px;
+left: 134px;
+color: yellow;
+font-size:14pt;
+width:200px;
+}
+.tu{
+position: absolute;
+top: 671px;
+left: 108px;
+color: white;
+font-size: 12pt;
+width: 250px;
+}
+.ho{
+position: absolute;
+top: 731px;
+left: 132px;
+color: #b1fb06;
+font-size: 12pt;
+width: 300px;
+}
+.hot{
+position: absolute;
+top: 748px;
+left: 132px;
+color: #b1fb06;
+font-size: 12pt;
+width: 300px;
+}
+.hopthu{
+position: absolute;
+top: 1461px;
+left: 191px;
+}				
+
+
+.khuyenmai{
+width:240px;
+height:50px;
+background-color:#78b53c;
+font-size:14pt;
+
+
+}
+.tenhang{
+
+color:red;
+font-weight:bold;
+}
+.giagoc{
+
+color:#efa5a5;
+font-size:13pt;
+text-decoration:line-through;
+}
+.giamgia{
+font-size:13pt;
+color:#efa5a5;
+}
+
+
+.nhanqua{
+clear:both;
+width:220px;
+height:30px;
+background-color:#81fa0b;
+margin-left:10px;
+margin-top:120px;
+}	
+
+
+
+.qua{
+color: #000000; 
+text-align:center;
+font-weight:bold;
+padding-top:4px;
+font-size:13pt;
+}
+.latop{
+padding-left:10px;
+}
+.nhan{
+color: #000000; 
+text-align:center;
+font-weight:bold;
+padding-top:5px;
+font-size:14pt;
+}
+#phangiua{
+
+float:left;
+width:550px;
+background-color:#fcf7f7;
+
+
+}
+.hinh{
+float:left;
+width:545px;
+height:210px;
+margin:5px;
+
+}
+
+.khung{
+float:left;
+width:165px;
+text-align:center;
+margin:9px;
+height:210px;
+}
+
+
+.hinhanh{
+float:left;
+margin:0px;
+margin-left:15px;
+margin-top:10px;
+border:thin solid #000000;
+
+}	
+.hinh:hover{
+background-color:#FFFFAA;
+color:#009933;
+border-radius:10px;
+}
+#phanphai{
+float:left;
+width:200px;
+text-align:center;
+
+}	
+
+#phanduoi{
+clear:both;
+text-align:center;
+font-size:11pt;
+width:1000px;
+color:red;
+height:70px;
+}
+
+.spgiamgia{
+width:186px;
+border:thin solid #009933;
+padding:5px;
+margin:2px;
+text-align:center;
+border-radius:5px;
+}
+.spgiamgia:hover{
+background-color:#FFFFAA;
+color:#009933;
+border-radius:10px;
+}	
+.tenhang:hover{
+background-color:#ffffff;
+color:#009933;
+font-size:15pt;
+border-radius:10px;}
+
+.tieudemenu:hover{
+background-color:#f3f6ef;
+color:#009933;
+font-size:15pt;
+
+border-radius:3px;}
+}
+.giagoc:hover{
+background-color:#ffffff;
+color:#009933;
+font-size:15pt;
+border-radius:10px;
+}
+.giamgia:hover{
+background-color:#ffffff;
+color:#009933;
+font-size:15pt;
+border-radius:10px;}
+
+.tenmay{
+margin-left:228px;
+font-size:15pt;
+margin-top:10px;
+color:#e65c5c;
+}
+.tenmay:hover{
+background-color:white-space;
+color:#009933;
+font-size:20pt;
+border-radius:10px;}
+.chulogo:hover{
+background-color:white-space;
+
+font-size:30pt;
+border-radius:10px;}
+.chuphuong:hover{
+background-color:white-space;
+
+font-size:30pt;
+border-radius:10px;}
+
+.tenmay1{
+color:#e65c5c;
+}
+.tenmay1:hover{
+background-color:#ffffff;
+color:#009933;
+font-size:15pt;
+border-radius:10px;
+}
+.khung1{
+margin:0px;
+margin-top:27px;
+}
+.khung1:hover{
+
+margin-top:20px;
+transition:0.3s;
+color:red;
+}
+.thongso{
+margin:12px;
+margin-left:255px;
+font-size:12pt;
+color:#e65c5c;
+}
+.sss{
+width:140px;
+
+}
+
+a.menungang{
+font-weight:both;
+color:white;
+text-decoration:none;
+font-size:12pt;
+
+}	
+a.menungang:hover{
+background-color:#FFFFAA;
+color:#009933;
+border-radius:10px;
+}
+.khungmenu{
+padding:5px;
+
+
+}	
+
+.tieudemenu{
+
+color: #121312; 
+text-align:center;
+font-weight:bold;
+border-bottom:thin dashed #121312;  
+margin-left:0px;
+margin-right:0px;
+font-size:13pt;
+
+
+}			
+
+a.menu{
+text-decoration:none;
+display:block;
+margin-left:10px;
+margin-right:10px;
+color:#101010;
+font-size:13pt;
+height:40px
+
+}
+
+a.menu:hover{
+background-color:#009933; 
+padding-left:20px;
+
+color:FFFFFF;
+border-radius:10px;
+font-weight:bold;
+ }
+ a.ngang{
+		font-size:15pt;
+		color:#000000;
+		font-weight:bold;
+		margin-left:-25px;
+		margin-right:50px;
+	 }
+	 a.ngang:hover{
+background-color:#ffffff;
+		color:#009933;
+		font-size:15pt;
+		border-radius:10px;}
+		
+	 .khung:hover{
+		  background-color:#bfc1a0;
+		color:#009933;
+		font-size:15pt;
+		border-radius:10px;}
+		.rieng:hover{
+		  background-color:#bfc1a0;
+		color:#009933;
+		font-size:15pt;
+		border-radius:10px;
+		}
+		
+
+	 
+ 
+
